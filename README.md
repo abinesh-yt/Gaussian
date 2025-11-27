@@ -46,8 +46,9 @@ plt.show()
 
 ```
 ## Output
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="712" height="532" alt="image" src="https://github.com/user-attachments/assets/64c7ba8f-69ff-4985-93bc-3807a4959d51" />
+<img width="757" height="625" alt="image" src="https://github.com/user-attachments/assets/55bdf8f3-46c1-45d1-a07b-ff1d6a09d139" />
+
 
 
 ## Result:
